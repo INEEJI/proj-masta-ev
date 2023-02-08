@@ -61,17 +61,7 @@
   
 ---
 
-  (알고리즘 작동 예시)  
+##  (알고리즘 작동 예시)  
   
   ![ezgif-1-8e70d052db](https://user-images.githubusercontent.com/124751879/217446105-8c223d7e-fe28-4a76-bed0-b0fc287244a8.gif)
-
- 
-
-
-
-  (알고리즘 작동 예시)  
-  
-  ![ezgif-1-8e70d052db](https://user-images.githubusercontent.com/124751879/217446105-8c223d7e-fe28-4a76-bed0-b0fc287244a8.gif)
-
- 
 
