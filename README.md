@@ -32,6 +32,7 @@ MASTA EV
     **단, MASTA 측에서 기록한 측정시점이 분 단위로 기록되어있으므로, 0.1초 단위로 기록되는 속도 데이터 추출 시 매칭이 간혹 잘못 이루어질 가능성이 있다.  
     또한, 속도 급상승-급하강이 덜 포착되어 브레이크 구간을 잘못 탐지하는 경우 이상탐지 알고리즘이 잘 작동되지 않을 수 있다.**
     
-  
- ![image](https://user-images.githubusercontent.com/124751879/217445384-4c0e2402-3250-4c23-a377-f0e2c5521b12.png)
+  ![ezgif-1-8e70d052db](https://user-images.githubusercontent.com/124751879/217446105-8c223d7e-fe28-4a76-bed0-b0fc287244a8.gif)
+
+ 
 
