@@ -1,6 +1,5 @@
 # proj-masta-ev
-MASTA EV
-  
+
 ---  
 
 (배경)
